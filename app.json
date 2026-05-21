@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "WeatherMap",
-    "slug": "WeatherMap",
+    "name": "MobileNotes",
+    "slug": "MobileNotes",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,15 +21,16 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.egorlipatov.WeatherMap"
+      "package": "com.egorlipatov.MobileNotes"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "21713a83-8e64-450e-a59a-a3a10330a346"
+        "projectId": "a3a170ec-d506-404c-a5e4-f961db42d70a"
       }
-    }
+    },
+    "owner": "egorlipatov"
   }
 }
