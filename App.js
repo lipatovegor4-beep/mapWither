@@ -1,6 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { StyleSheet, Text, View, TouchableOpacity, SafeAreaView, ActivityIndicator, Alert, ScrollView, Dimensions } from 'react-native';
-import MapView, { Marker } from 'react-native-maps';
 import MapView, { Marker, PROVIDER_DEFAULT } from 'react-native-maps';
 
 const API_KEY = '4c455ade3962863e890c1a5bafbff65f';
